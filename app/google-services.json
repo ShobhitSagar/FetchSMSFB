@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "939673190768",
+    "firebase_url": "https://fetchsms.firebaseio.com",
+    "project_id": "fetchsms",
+    "storage_bucket": "fetchsms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939673190768:android:12235e4502a3ec70",
+        "android_client_info": {
+          "package_name": "com.developerss.android.fetchsmsfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939673190768-49tq2jmbbpq405vfh26ollr82r8rt3ss.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.developerss.android.fetchsmsfb",
+            "certificate_hash": "0795f8af17f82cb068442c4444e12cf0c31c2d1f"
+          }
+        },
+        {
+          "client_id": "939673190768-9qjk9uhv5rt8639j0eaqd8n4h3lcgjoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdroapTI_Bo5MbX_lR04FXvxOTrV0BCSw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939673190768-9qjk9uhv5rt8639j0eaqd8n4h3lcgjoj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
